@@ -1,0 +1,7 @@
+C:\Users\odmen\Documents\Visual Studio 2017\Projects\ClearNotes\bin\Debug\ClearNotes.exe.config
+C:\Users\odmen\Documents\Visual Studio 2017\Projects\ClearNotes\bin\Debug\ClearNotes.exe
+C:\Users\odmen\Documents\Visual Studio 2017\Projects\ClearNotes\bin\Debug\ClearNotes.pdb
+C:\Users\odmen\Documents\Visual Studio 2017\Projects\ClearNotes\obj\Debug\ClearNotes.csprojResolveAssemblyReference.cache
+C:\Users\odmen\Documents\Visual Studio 2017\Projects\ClearNotes\obj\Debug\ClearNotes.csproj.CoreCompileInputs.cache
+C:\Users\odmen\Documents\Visual Studio 2017\Projects\ClearNotes\obj\Debug\ClearNotes.exe
+C:\Users\odmen\Documents\Visual Studio 2017\Projects\ClearNotes\obj\Debug\ClearNotes.pdb
